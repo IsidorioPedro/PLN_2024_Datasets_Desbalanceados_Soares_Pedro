@@ -42,9 +42,9 @@ Este tutorial guia você pelo processo de classificação de datasets desbalance
 
 ## Links Úteis
 
+- [Tutorial do Projeto](https://drive.google.com/file/d/1QubookfUBrxK7IcaSTiRlLOd3VU4TYfw/view?usp=sharing)
 - [Repositório do Projeto](https://github.com/IsidorioPedro/PLN_2024_Datasets_Desbalanceados_Soares_Pedro)
 - [Dataset do Projeto](https://www.kaggle.com/datasets/zynicide/wine-reviews/data)
 - [Documentação do Pandas](https://pandas.pydata.org/pandas-docs/stable/)
 - [Documentação do Scikit-learn](https://scikit-learn.org/stable/)
 - [Documentação do Hugging Face](https://huggingface.co/docs)
-
